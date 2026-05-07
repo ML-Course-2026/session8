@@ -18,12 +18,12 @@
 
 ### Build A Reasoning Model (From Scratch)
 - [Book](https://www.manning.com/books/build-a-reasoning-model-from-scratch)
-- **GitHub Repository (Code + Solutions)**: 
-  https://github.com/rasbt/reasoning-from-scratch
+- [GitHub Repository (Code + Solutions)](https://github.com/rasbt/reasoning-from-scratch)
+  
 
 ### Deep Learning from Scratch
-- **Book (Free for Metropolia students)**:  
-  https://metropolia.finna.fi/Record/nelli15.4100000009347178
+- [Book (Free for Metropolia students)](https://metropolia.finna.fi/Record/nelli15.4100000009347178)
+  
 
 ---
 
